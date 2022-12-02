@@ -15,6 +15,6 @@ function countWords(str) {
   return count;
 }
 
-console.log(countWords(input1));
-console.log(countWords(input2));
-console.log(countWords(input3));
+console.log(countWords(input1))//5
+console.log(countWords(input2))//3
+console.log(countWords(input3))//4
